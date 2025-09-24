@@ -20,3 +20,6 @@ After resolving those ERRORS the CI/CD workflow happen with a GREEN TICKMARK .
 <img width="1451" height="806" alt="Screenshot 2025-09-24 150452" src="https://github.com/user-attachments/assets/63222f27-b1fa-4f5c-9c71-130974936fcc" />
 
 
+After Working with this I learn about how github actions work and to how docker is used for push and deploy image.  
+
+
