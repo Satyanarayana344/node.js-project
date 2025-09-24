@@ -17,6 +17,9 @@ After giving the credintials in a github secrets we can trigger the pipeline and
 The workflow automatically shows where the error occured and failed the CI/CD workflow.
 After resolving those ERRORS the CI/CD workflow happen with a GREEN TICKMARK .
 
+<img width="1496" height="226" alt="Screenshot 2025-09-24 151426" src="https://github.com/user-attachments/assets/94f6a468-7ef8-4c9b-9c89-0506df73c8d1" />
+
+
 <img width="1451" height="806" alt="Screenshot 2025-09-24 150452" src="https://github.com/user-attachments/assets/63222f27-b1fa-4f5c-9c71-130974936fcc" />
 
 
